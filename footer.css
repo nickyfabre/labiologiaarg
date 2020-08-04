@@ -1,0 +1,22 @@
+/* FOOTER */
+.social a {
+  font-size: 1em;
+  padding: 3rem;
+}
+.fa-instagram {
+  color: green;
+  margin-bottom: 15px;
+}
+.fa-instagram:hover {
+  color: white;
+  transition: 1s;
+}
+footer {
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding: 20px;
+}
+hr.light {
+  border-top: 1px solid #d5d5d5;
+  padding: 0px;
+}

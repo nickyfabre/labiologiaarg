@@ -1,0 +1,25 @@
+/* welcome page */
+.welcome {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr {
+  border-top: 2px solid gray;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+}
+.fa-microscope {
+  color: red;
+}
+.fa-leaf {
+  color: green;
+}
+.fa-paw {
+  color: blue;
+}
+.fa-microscope, .fa-leaf, .fa-paw {
+  font-size: 4em;
+  margin-bottom: 2rem;
+}

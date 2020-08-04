@@ -1,0 +1,27 @@
+/* Banner */
+.carousel-inner {
+  max-height: 30rem!important;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 40%;
+  transform: translateY(-60%);
+}
+.carousel-caption h1 {
+  font-size: 500%;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-shadow: 5px 5px 15px black;
+}
+.carousel-caption h3 {
+  font-size: 200%;
+  font-weight: 600;
+  text-shadow: 5px 5px 15px black;
+  padding-bottom: 1rem;
+}
+/* Jumbotron */
+.jumbotron {
+  padding: 1.11rem;
+  border-radius: 0;
+}
